@@ -1,2 +1,2 @@
 # Minimax-XO
-Proejkat SPiA 2025
+Projekat SPiA 2025
